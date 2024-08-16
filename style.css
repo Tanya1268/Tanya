@@ -1,0 +1,36 @@
+header{
+    background-color: lightslategray;
+    text-align: center;
+    color: brown;
+    padding: 5px;
+    border: 5px cornflowerblue outset;
+    
+    }
+ul{
+    list-style:none;
+}
+body{
+    background-color: lightblue;
+
+    }
+img{
+    height:250px;
+    width:300px;
+}
+
+.body{
+    background-color:lightgoldenrodyellow;
+    text-decoration-color: rgb(226, 43, 141);
+    padding: 20;
+    margin:auto;
+    text-align:center;
+    width: 500px;
+    
+   
+   
+}
+.end{
+    background-color: antiquewhite;
+    text-align: justify;
+    
+}
